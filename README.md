@@ -1,4 +1,4 @@
-# AI-Soduku-Solver (open raw format to see properly)
+# AI-Soduku-Solver (change to code view to see properly)
 Backtracking Algorithm in Python
 
 When the program is run it will prompt the user:
